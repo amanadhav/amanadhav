@@ -4,8 +4,6 @@
 
 </div>
 
----
-
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aman-adhav)
@@ -18,23 +16,21 @@
 
 ---
 
-## 👋 Hey, I'm Aman
+## 👋 hey, I'm Aman
 
-SWE @ **ASU Enterprise Technology** · CS undergrad @ **Arizona State University** (Dec 2026) · GPA 3.81
+CS undergrad at ASU (Dec 2026) working as a SWE on the Integration & APIs team at ASU Enterprise Technology. I build things with Python, AWS, and whatever AI model is interesting that week.
 
-I build real things — AWS Lambdas, AI tutoring platforms, and hackathon winners. I'm on the Integration & APIs team at ASU ET by day, and shipping side projects by night.
-
-- 🏆 **Kiro Spark Challenge Winner** — AllVoice · Best in Story · Grand Prize Runner-Up · $1,500 prize (50 ASU teams)
-- 🤖 Currently building **MyEdMaster** — an AI-powered Algebra 1 tutoring platform (capstone)
-- ☁️ Day job: Python Lambdas · Terraform · AWS · Salesforce integrations · Jenkins CI/CD
-- 🎓 Teaching Assistant — MAT 210 & MAT 242 @ ASU
-- 🌱 Deep into LLMs, NLP, and whatever's next in AI
+- 🏆 won the Kiro Spark Challenge with AllVoice - Best in Story, Grand Prize runner-up, $1,500 (out of 50 ASU teams)
+- 🤖 currently finishing MyEdMaster, an AI Algebra 1 tutoring app for my capstone
+- ☁️ day job is Python Lambdas, Terraform, Salesforce integrations, Jenkins CI/CD
+- 🎓 TA for MAT 210 and MAT 242 at ASU
+- 🌱 into LLMs and NLP - always have something half-built on the side
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ tech stack
 
-**Languages**
+**languages**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
@@ -42,14 +38,14 @@ I build real things — AWS Lambdas, AI tutoring platforms, and hackathon winner
 ![Swift](https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 
-**Frameworks & Libraries**
+**frameworks & libraries**
 
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 
-**Cloud & DevOps**
+**cloud & devops**
 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
@@ -57,7 +53,7 @@ I build real things — AWS Lambdas, AI tutoring platforms, and hackathon winner
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
 ![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=flat-square&logo=sonarqube&logoColor=white)
 
-**Tools & Platforms**
+**tools & platforms**
 
 ![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=flat-square&logo=salesforce&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
@@ -66,34 +62,24 @@ I build real things — AWS Lambdas, AI tutoring platforms, and hackathon winner
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 projects
 
-| Project | What it is | Stack |
-|--------|-----------|-------|
-| 🎓 **MyEdMaster** | AI Algebra 1 tutoring platform — capstone project | React · Gemini API · KaTeX · Tremor |
-| 🎙️ **AllVoice** | Kiro Spark Challenge winner — accessibility-first voice tool | Python · FastAPI · AWS |
-| 🎬 **CineMind** | LLM-enhanced movie recommendations | Python · NLP · React |
-| 📅 **ClassQ** | Redis-based class scheduling system | Python · Redis · REST API |
-| ✈️ **TripSmart** | iOS travel app with AI itinerary builder | SwiftUI · SwiftData · Claude API |
+| project | what it is | stack |
+|---------|-----------|-------|
+| 🎓 **MyEdMaster** | AI Algebra 1 tutoring platform - capstone | React - Gemini API - KaTeX - Tremor |
+| 🎙️ **AllVoice** | Kiro Spark Challenge winner - accessibility-first voice tool | Python - FastAPI - AWS |
+| 🎬 **CineMind** | movie recommendations using LLMs | Python - NLP - React |
+| 📅 **ClassQ** | class scheduling system built on Redis | Python - Redis - REST API |
+| ✈️ **TripSmart** | iOS travel app with AI itinerary builder | SwiftUI - SwiftData - Claude API |
 
 ---
 
-## 📊 GitHub Stats
+## 📊 github stats
 
 <div align="center">
 
-<a href="https://github.com/amanadhav">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=amanadhav&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=1800" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amanadhav&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&cache_seconds=1800" />
-</a>
-
-</div>
-
-<div align="center">
-
-<a href="https://github.com/amanadhav">
-  <img src="https://streak-stats.demolab.com/?user=amanadhav&theme=tokyonight&hide_border=true" />
-</a>
+[![Aman's GitHub stats](https://github-readme-stats.vercel.app/api?username=amanadhav&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)](https://github.com/amanadhav)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amanadhav&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/amanadhav)
 
 </div>
 
@@ -101,7 +87,7 @@ I build real things — AWS Lambdas, AI tutoring platforms, and hackathon winner
 
 <div align="center">
 
-*Open to full-time SWE roles starting January 2027 · F-1 OPT eligible*
+*open to full-time SWE roles starting jan 2027 - F-1 OPT eligible*
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,100:0f172a&height=100&section=footer" />
 
