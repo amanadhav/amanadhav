@@ -70,12 +70,11 @@ I build real things — AWS Lambdas, AI tutoring platforms, and hackathon winner
 
 | Project | What it is | Stack |
 |--------|-----------|-------|
-| 🎓 [**MyEdMaster**](#) | AI Algebra 1 tutoring platform — capstone project | React · Gemini API · KaTeX · Tremor |
-| 🎙️ [**AllVoice**](#) | Kiro Spark Challenge winner — accessibility-first voice tool | Python · FastAPI · AWS |
-| 🏠 [**VaastuAI**](#) | AI-powered Vastu Shastra advisor | LLM · Python · React |
-| 🎬 [**CineMind**](#) | LLM-enhanced movie recommendations | Python · NLP · React |
-| 📅 [**ClassQ**](#) | Redis-based class scheduling system | Python · Redis · REST API |
-| ✈️ [**TripSmart**](#) | iOS travel app with AI itinerary builder | SwiftUI · SwiftData · Claude API |
+| 🎓 **MyEdMaster** | AI Algebra 1 tutoring platform — capstone project | React · Gemini API · KaTeX · Tremor |
+| 🎙️ **AllVoice** | Kiro Spark Challenge winner — accessibility-first voice tool | Python · FastAPI · AWS |
+| 🎬 **CineMind** | LLM-enhanced movie recommendations | Python · NLP · React |
+| 📅 **ClassQ** | Redis-based class scheduling system | Python · Redis · REST API |
+| ✈️ **TripSmart** | iOS travel app with AI itinerary builder | SwiftUI · SwiftData · Claude API |
 
 ---
 
@@ -83,14 +82,18 @@ I build real things — AWS Lambdas, AI tutoring platforms, and hackathon winner
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=amanadhav&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amanadhav&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
+<a href="https://github.com/amanadhav">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=amanadhav&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=1800" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amanadhav&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&cache_seconds=1800" />
+</a>
 
 </div>
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=amanadhav&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+<a href="https://github.com/amanadhav">
+  <img src="https://streak-stats.demolab.com/?user=amanadhav&theme=tokyonight&hide_border=true" />
+</a>
 
 </div>
 
