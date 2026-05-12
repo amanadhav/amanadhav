@@ -20,7 +20,7 @@
 
 CS undergrad at ASU (Dec 2026) working as a SWE on the Integration & APIs team at ASU Enterprise Technology. I build things with Python, AWS, and whatever AI model is interesting that week.
 
-- 🏆 won the Kiro Spark Challenge with AllVoice - Best in Story, Grand Prize runner-up, $1,500 (out of 50 ASU teams)
+- 🏆 won the Kiro Spark Challenge with AllVoice - Grand Prize Winner, Best in Collab, $6,000 (out of 50 ASU teams)
 - 🤖 currently finishing MyEdMaster, an AI Algebra 1 tutoring app for my capstone
 - ☁️ day job is Python Lambdas, Terraform, Salesforce integrations, Jenkins CI/CD
 - 🎓 TA for MAT 210 and MAT 242 at ASU
