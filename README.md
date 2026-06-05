@@ -52,7 +52,7 @@ CS undergrad at ASU (Dec 2026) working as a SWE on the Integration & APIs team a
 
 ## 📊 github stats
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=amanadhav&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+[![Aman's GitHub stats](https://github-readme-stats.vercel.app/api?username=amanadhav&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)](https://github.com/amanadhav)
 ---
 
 *open to full-time SWE roles starting jan 2027 - F-1 OPT eligible*
