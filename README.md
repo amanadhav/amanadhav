@@ -49,12 +49,6 @@ CS undergrad at ASU (Dec 2026) working as a SWE on the Integration & APIs team a
 | ✈️ [**TripSmart**](https://github.com/amanadhav/TripSmart) | iOS travel app with AI itinerary builder | SwiftUI - SwiftData - Claude API |
 
 ---
-
-## 📊 github stats
-
-[![Aman's GitHub stats](https://github-readme-stats.vercel.app/api?username=amanadhav&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)](https://github.com/amanadhav)
----
-
 *open to full-time SWE roles starting jan 2027 - F-1 OPT eligible*
 
 [![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,100:0f172a&height=100&section=footer)](https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,100:0f172a&height=100&section=footer)
