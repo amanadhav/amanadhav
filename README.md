@@ -1,4 +1,4 @@
-[![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:6366f1&height=200&section=header&text=Aman%20Adhav&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%7C%20CS%20%40%20ASU%20%7C%20Agentic%20AI%20%26%20Backend&descAlignY=58&descSize=18&descColor=a5b4fc)](https://github.com/amanadhav)
+[![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:6366f1&height=200&section=header&text=Aman%20Adhav&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%7C%20CS%20%40%20ASU%20%7C%20Agentic%20AI%20%26%20Backend&descAlignY=58&descSize=18&descColor=a5b4fc)]
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aman-adhav) [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:avadhav@asu.edu) [![Portfolio](https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white)](https://amanadhav.com)
 
