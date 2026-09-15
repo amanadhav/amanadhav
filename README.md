@@ -1,7 +1,8 @@
-[![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:6366f1&height=200&section=header&text=Aman%20Adhav&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%7C%20CS%20%40%20ASU%20%7C%20Agentic%20AI%20%26%20Backend&descAlignY=58&descSize=18&descColor=a5b4fc)]
+[![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:6366f1&height=200&section=header&text=Aman%20Adhav&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%7C%20CS%20%40%20ASU%20%7C%20Building%20AI%20stuff&descAlignY=58&descSize=18&descColor=a5b4fc)](https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:6366f1&height=200&section=header&text=Aman%20Adhav&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%7C%20CS%20%40%20ASU%20%7C%20Building%20AI%20stuff&descAlignY=58&descSize=18&descColor=a5b4fc)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aman-adhav) [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:avadhav@asu.edu) [![Portfolio](https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white)](https://amanadhav.com)
 
+![Profile Views](https://komarev.com/ghpvc/?username=amanadhav&color=6366f1&style=for-the-badge&label=PROFILE+VIEWS)
 
 ---
 
@@ -30,11 +31,11 @@ CS undergrad at ASU (Dec 2026) working as a Software Engineer on the Integration
 
 **cloud & devops**
 
-[![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)](https://aws.amazon.com) [![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)](https://terraform.io) [![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)](https://docker.com) [![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)](https://github.com/features/actions) [![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)](https://jenkins.io) [![Datadog](https://img.shields.io/badge/Datadog-632CA6?style=flat-square&logo=datadog&logoColor=white)](https://datadoghq.com)
+[![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)](https://aws.amazon.com) [![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)](https://terraform.io) [![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)](https://docker.com) [![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)](https://github.com/features/actions) [![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)](https://jenkins.io) [![Datadog](https://img.shields.io/badge/Datadog-632CA6?style=flat-square&logo=datadog&logoColor=white)](https://datadoghq.com) [![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=flat-square&logo=sonarqube&logoColor=white)](https://sonarqube.org)
 
 **data & AI**
 
-[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)](https://postgresql.org) [![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)](https://redis.io) [![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)](https://supabase.com) [![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)](https://scikit-learn.org) [![Claude API](https://img.shields.io/badge/Claude_API-D97757?style=flat-square&logo=anthropic&logoColor=white)](https://anthropic.com)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)](https://postgresql.org) [![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)](https://redis.io) [![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)](https://supabase.com) [![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)](https://scikit-learn.org) [![Claude API](https://img.shields.io/badge/Claude_API-D97757?style=flat-square&logo=anthropic&logoColor=white)](https://anthropic.com) [![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=flat-square&logo=salesforce&logoColor=white)](https://salesforce.com)
 
 ---
 
@@ -50,12 +51,11 @@ CS undergrad at ASU (Dec 2026) working as a Software Engineer on the Integration
 | 🎬 [**CineMind**](https://github.com/amanadhav/Cinemind) | hybrid movie recommender - SVD matrix factorization + TF-IDF content filtering, cold-start fold-in, 71 tests | Python - Flask - scikit-learn - Next.js |
 | 📅 [**ClassQ**](https://github.com/amanadhav/ClassQ) | course registration backend that survives 500 concurrent requests - atomic Redis Lua seat allocation, transactional outbox | FastAPI - Redis - PostgreSQL - Terraform |
 | ✈️ [**TripSmart**](https://github.com/amanadhav/TripSmart) | iOS travel app with AI itinerary generation - strict MVVM, SwiftData persistence | SwiftUI - SwiftData - Claude API |
-| 🔗 [**Jira → EEL Integration**](https://github.com/amanadhav/sandbox-jira-eel-integration) | system design for streaming Jira ticket events onto an enterprise EventBridge bus - privacy by construction | API Gateway - Lambda - EventBridge |
+| 🔗 [**Jira to EEL Integration**](https://github.com/amanadhav/sandbox-jira-eel-integration) | system design for streaming Jira ticket events onto an enterprise EventBridge bus - privacy by construction | API Gateway - Lambda - EventBridge |
 
 Plus a 7-repo [AI engineering series](https://github.com/amanadhav?tab=repositories&q=ai201) from CodePath AI201: RAG systems, multi-tool agents, DistilBERT fine-tuning, and AI text attribution.
 
 ---
-
 *open to full-time SWE roles starting jan 2027 - F-1 OPT eligible*
 
-[![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,100:0f172a&height=100&section=footer)](https://github.com/amanadhav)
+[![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,100:0f172a&height=100&section=footer)](https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,100:0f172a&height=100&section=footer)
