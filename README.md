@@ -44,6 +44,7 @@ CS undergrad at ASU (Dec 2026) working as a Software Engineer on the Integration
 | project | what it is | stack |
 | --- | --- | --- |
 | 🎙️ [**AllVoice**](https://github.com/amanadhav/AllVoice) | Kiro Challenge Grand Prize + Best in Build winner - voice-controlled browser copilot for blind/low-vision users with a deterministic Ethics Logic Gate, 103 tests | TypeScript - React - Claude API - Chrome MV3 |
+| 📈 [**TraderAI**](https://github.com/amanadhav/traderai) | self-hosted AI trading analyst - 11-tool agent that runs the scoring engine and a real backtester mid-conversation, tool-grounded so it cannot invent numbers, 306 tests, ~$1/month to run | Python - FastAPI - React 19 - Claude + TypeSafe Jev |
 | 🤖 [**Capability Forge**](https://github.com/amanadhav/capability-forge) | agentic browser automation - LLM discovers a workflow once, deterministic executor replays it with zero model calls | Node.js - Playwright - OpenAI API |
 | ⚔️ [**Adversarial Coding Pipeline**](https://github.com/amanadhav/adversarial-coding-pipeline-demo) | multi-agent system (Architect/Coder/Reviewer + deterministic Safety Gate) that caught 5 real issues in its own output | Python - multi-agent - TDD |
 | 🎓 **MyEdMaster** *(private - NDA)* | AI Algebra 1 tutoring platform - capstone sponsored by MyEdMaster LLC | React - Gemini API - KaTeX - Tremor |
